@@ -1,0 +1,12 @@
+Region,Population(millions)mid-2020,"Births per 1,000Population","Deaths per 1,000 Population",Rate of Natural Increase (%),Net Migration Rate,Population(millions) in mid-2035,Population(millions) in mid-2050,Infant Mortality Rate,Total Fertility Rate,Population (%)mid-2020 for Ages <15,Population (%)mid-2020 for Ages 65+,"Family Planning AmongMarried Women Ages 15-49 Using All
+Methods (%)",Family Planning AmongMarried Women Ages 15-49c Using Modern Methods (%),Demand Satisfied by Modern Methods (%) 
+WORLD,"7,773",19,7,1.1,0,"8,937","9,876",31,2.3,26,9,61,55,—
+MORE DEVELOPED,"1,272",10,10,0.0,2,"1,311","1,317",4,1.6,16,19,70,61,—
+LESS DEVELOPED,"6,501",20,7,1.4,0,"7,626","8,559",34,2.5,28,7,60,54,—
+LESS DEVELOPED (Excluding China),"5,091",23,7,1.6,0,"6,193","7,184",37,2.8,31,6,53,47,65
+LEAST DEVELOPED,"1,062",33,7,2.6,-1,"1,487","1,975",49,4.1,40,4,39,34,55
+HIGH INCOME,"1,219",10,9,0.1,3,"1,286","1,309",5,1.6,16,18,70,63,—
+MIDDLE INCOME,"5,805",18,7,1.1,-1,"6,562","7,081",29,2.2,26,8,63,57,—
+UPPER MIDDLE INCOME,"2,683",13,7,0.6,0,"2,831","2,837",11,1.8,20,11,77,71,—
+LOWER MIDDLE INCOME,"3,122",23,7,1.6,-1,"3,731","4,244",38,2.7,30,5,51,45,66
+LOW INCOME,746,35,8,2.8,-1,"1,085","1,482",50,4.6,42,3,35,30,51
